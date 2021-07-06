@@ -1,0 +1,2 @@
+# gocubicsolver
+Cubic Equation Solver 
